@@ -1,4 +1,4 @@
-# ancient-math
+# ancient-math.com
 
 ancient-math.com - Music Production & Composition
 
