@@ -1,2 +1,5 @@
 # ancient-math
-Custom built website for my music composition portfolio.
+
+ancient-math.com - Music Production & Composition
+
+This is a custom built website for my music composition portfolio.
